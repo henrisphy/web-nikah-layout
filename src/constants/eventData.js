@@ -1,7 +1,8 @@
 export const events = {
   akad: {
     title: "Akad Nikah",
-    date: "28 December 2023",
+    day: "Sabtu",
+    date: "28 December 2026",
     time: "08:00 - 10:00 WIB",
     venue: "Masjid Al-Ikhlas",
     address: "Jl. Merdeka No. 123, Jakarta",
@@ -9,7 +10,8 @@ export const events = {
   },
   resepsi: {
     title: "Resepsi",
-    date: "28 December 2023",
+    day: "Minggu",
+    date: "29 December 2026",
     time: "11:00 - 15:00 WIB",
     venue: "Grand Ballroom",
     address: "Hotel Maju Jaya, Jakarta",

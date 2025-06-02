@@ -54,8 +54,9 @@ export const componentStyles = {
     color: "#d4af37", // text-primary
   },
   card: {
-    backgroundColor: "#fff",
+    backgroundColor: "background: rgba(254, 234, 241, 1)",
     padding: "1.5rem",
+
     "@media (min-width: 768px)": {
       padding: "2rem",
     },

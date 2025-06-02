@@ -1,11 +1,11 @@
 export const coupleData = {
-  bride: {
+  mempelaiPerempuan: {
     name: "Aisyah Nurul",
     parents: "Mr. Ahmad & Mrs. Siti",
     image: "/images/couple/bride.jpg",
     bio: "The eldest daughter of three siblings. Graduated from University of Indonesia with a degree in Architecture.",
   },
-  groom: {
+  mempelaiLaki: {
     name: "Fahmi Rahman",
     parents: "Mr. Budi & Mrs. Ani",
     image: "/images/couple/groom.jpg",
